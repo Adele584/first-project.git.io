@@ -27,9 +27,6 @@
         <a class="btn" href="https://www.freecodecamp.org/learn">GET STARTED</a>
       </form>
     </div>
-    <div class="png">
-      <img src="https://www.bregologistik.de/fileadmin/_processed_/f/e/csm_shipping-fast_18aad1cdd7.jpg" alt="">
-    </div>
     <div class="c">
       <h2>Premium Materials</h2>
       <p>Our trombones use the shiniest brass which is sourced locally. This will increase the longevity of your purchase.</p><br>
